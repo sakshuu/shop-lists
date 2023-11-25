@@ -15,7 +15,8 @@ export default function Home() {
   }, [ShopListEdit,ShopListremove ])
 
 useEffect(() => {
-  ShopList && setallDataShopList(ShopList)}, [ShopList])
+  ShopList && setallDataShopList(ShopList)
+}, [ShopList])
   
   const [show, setShow] = useState(false);
   const handleClose = () => setShow(false);
@@ -133,7 +134,5 @@ const handleCloseDelete = () => {
           <MyModal shoplistdata={shoplistdata} handleClose={handleClose}/>
           </Modal.Body>
       </Modal>
-
-
   </>
 }
