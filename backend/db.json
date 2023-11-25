@@ -1,0 +1,52 @@
+{
+  "shoplist": [
+    {
+      "shopName": "shop",
+      "area": "nagpur",
+      "category": "chemist",
+      "openingDate": "2022-12-16",
+      "closingDate": "2022-12-22",
+      "id": 2
+    },
+    {
+      "shopName": "shop 5",
+      "area": "nashik",
+      "category": "chemist",
+      "openingDate": "2022-12-24",
+      "closingDate": "2022-12-25",
+      "id": 5
+    },
+    {
+      "shopName": "shop 1",
+      "area": "mumbai",
+      "category": "stationery",
+      "openingDate": "2022-12-04",
+      "closingDate": "2022-12-05",
+      "id": 6
+    },
+    {
+      "shopName": "shop 8",
+      "area": "thane",
+      "category": "baker",
+      "openingDate": "2022-12-02",
+      "closingDate": "2022-12-02",
+      "id": 7
+    },
+    {
+      "shopName": "jhjk",
+      "area": "mumbai",
+      "category": "chemist",
+      "openingDate": "2022-12-05",
+      "closingDate": "2022-12-06",
+      "id": 8
+    },
+    {
+      "shopName": "haldiram",
+      "area": "pune",
+      "category": "baker",
+      "openingDate": "2023-04-11",
+      "closingDate": "2023-04-12",
+      "id": 9
+    }
+  ]
+}
